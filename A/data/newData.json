@@ -1,0 +1,559 @@
+[
+  {
+    "id": 1,
+    "name": "Summer Ridge",
+    "duration": "6",
+    "summary": "Janssen Pharmaceuticals, Inc."
+  },
+  {
+    "id": 2,
+    "name": "Emmet",
+    "duration": "908",
+    "summary": "Aero All Gas Company"
+  },
+  {
+    "id": 3,
+    "name": "Gerald",
+    "duration": "4680",
+    "summary": "Unifirst First Aid Corporation"
+  },
+  {
+    "id": 4,
+    "name": "Spohn",
+    "duration": "5",
+    "summary": "Nelco Laboratories, Inc."
+  },
+  {
+    "id": 5,
+    "name": "Schiller",
+    "duration": "2",
+    "summary": "Physicians Total Care, Inc."
+  },
+  {
+    "id": 6,
+    "name": "Cardinal",
+    "duration": "80050",
+    "summary": "Actavis Mid Atlantic LLC"
+  },
+  {
+    "id": 7,
+    "name": "Loomis",
+    "duration": "72",
+    "summary": "Keltman Pharmaceuticals Inc."
+  },
+  {
+    "id": 8,
+    "name": "Walton",
+    "duration": "1",
+    "summary": "Lupin Pharmaceuticals, Inc."
+  },
+  {
+    "id": 9,
+    "name": "Schmedeman",
+    "duration": "0",
+    "summary": "Cardinal Health"
+  },
+  {
+    "id": 10,
+    "name": "Sage",
+    "duration": "378",
+    "summary": "Nelco Laboratories, Inc."
+  },
+  {
+    "id": 11,
+    "name": "Troy",
+    "duration": "4916",
+    "summary": "Therapon Skin Health, LP"
+  },
+  { "id": 12, "name": "Huxley", "duration": "2", "summary": "Cardinal Health" },
+  {
+    "id": 13,
+    "name": "Calypso",
+    "duration": "2853",
+    "summary": "Onpoint, Inc"
+  },
+  {
+    "id": 14,
+    "name": "Londonderry",
+    "duration": "2334",
+    "summary": "Antigen Laboratories, Inc."
+  },
+  {
+    "id": 15,
+    "name": "Declaration",
+    "duration": "324",
+    "summary": "Taro Pharmaceuticals U.S.A., Inc."
+  },
+  {
+    "id": 16,
+    "name": "Karstens",
+    "duration": "071",
+    "summary": "RECORDATI RARE DISEASES, INC."
+  },
+  {
+    "id": 17,
+    "name": "Harbort",
+    "duration": "40",
+    "summary": "Deseret Biologicals"
+  },
+  {
+    "id": 18,
+    "name": "Dovetail",
+    "duration": "62",
+    "summary": "Uriel Pharmacy Inc."
+  },
+  {
+    "id": 19,
+    "name": "Mandrake",
+    "duration": "4005",
+    "summary": "Nelco Laboratories, Inc."
+  },
+  {
+    "id": 20,
+    "name": "Bobwhite",
+    "duration": "432",
+    "summary": "Perrigo New York Inc"
+  },
+  {
+    "id": 21,
+    "name": "Stang",
+    "duration": "71",
+    "summary": "Antigen Laboratories, Inc."
+  },
+  {
+    "id": 22,
+    "name": "Grim",
+    "duration": "2",
+    "summary": "Teva Pharmaceuticals USA Inc"
+  },
+  {
+    "id": 23,
+    "name": "Bellgrove",
+    "duration": "4",
+    "summary": "Conopco Inc. d/b/a Unilever"
+  },
+  {
+    "id": 24,
+    "name": "Rieder",
+    "duration": "6855",
+    "summary": "Bolero Home Decor, Inc."
+  },
+  {
+    "id": 25,
+    "name": "Loeprich",
+    "duration": "36",
+    "summary": "REMEDYREPACK INC."
+  },
+  {
+    "id": 26,
+    "name": "Mandrake",
+    "duration": "641",
+    "summary": "Aurobindo Pharma Limited"
+  },
+  {
+    "id": 27,
+    "name": "Milwaukee",
+    "duration": "1",
+    "summary": "Physicians Total Care, Inc."
+  },
+  { "id": 28, "name": "Maywood", "duration": "69", "summary": "H E B" },
+  {
+    "id": 29,
+    "name": "Grim",
+    "duration": "9",
+    "summary": "Kremers Urban Pharmaceuticals Inc"
+  },
+  {
+    "id": 30,
+    "name": "Blackbird",
+    "duration": "9",
+    "summary": "E.R. Squibb & Sons, L.L.C."
+  },
+  {
+    "id": 31,
+    "name": "Hooker",
+    "duration": "6",
+    "summary": "X-GEN Pharmaceuticals, Inc."
+  },
+  {
+    "id": 32,
+    "name": "Manufacturers",
+    "duration": "86",
+    "summary": "Rx Pak Division of McKesson Corporation"
+  },
+  { "id": 33, "name": "Shopko", "duration": "91", "summary": "Leader" },
+  {
+    "id": 34,
+    "name": "Katie",
+    "duration": "86418",
+    "summary": "Greenstone LLC"
+  },
+  {
+    "id": 35,
+    "name": "Holmberg",
+    "duration": "300",
+    "summary": "Hikma Pharmaceutical"
+  },
+  {
+    "id": 36,
+    "name": "Starling",
+    "duration": "37802",
+    "summary": "Nelco Laboratories, Inc."
+  },
+  { "id": 37, "name": "Hallows", "duration": "1941", "summary": "Kroger Co" },
+  {
+    "id": 38,
+    "name": "Fairfield",
+    "duration": "1164",
+    "summary": "SHISEIDO AMERICAS CORPORATION"
+  },
+  {
+    "id": 39,
+    "name": "Messerschmidt",
+    "duration": "20",
+    "summary": "Prasco Laboratories"
+  },
+  {
+    "id": 40,
+    "name": "Pleasure",
+    "duration": "6846",
+    "summary": "Lake Erie Medical DBA Quality Care Products LLC"
+  },
+  { "id": 41, "name": "Iowa", "duration": "1", "summary": "Cispharma, Inc" },
+  {
+    "id": 42,
+    "name": "Center",
+    "duration": "0",
+    "summary": "Rebel Distributors Corp."
+  },
+  {
+    "id": 43,
+    "name": "Prairieview",
+    "duration": "125",
+    "summary": "Physicians Total Care, Inc."
+  },
+  {
+    "id": 44,
+    "name": "Green Ridge",
+    "duration": "23229",
+    "summary": "Ventura Corporation LTD."
+  },
+  {
+    "id": 45,
+    "name": "Sutteridge",
+    "duration": "1899",
+    "summary": "STAT RX USA LLC"
+  },
+  {
+    "id": 46,
+    "name": "Anniversary",
+    "duration": "701",
+    "summary": "Origin Biomed Inc"
+  },
+  {
+    "id": 47,
+    "name": "Evergreen",
+    "duration": "093",
+    "summary": "American Sales Company"
+  },
+  {
+    "id": 48,
+    "name": "Ohio",
+    "duration": "0",
+    "summary": "Fresenius Medical Care North America"
+  },
+  {
+    "id": 49,
+    "name": "Sunnyside",
+    "duration": "3",
+    "summary": "Amerisource Bergen"
+  },
+  {
+    "id": 50,
+    "name": "Maywood",
+    "duration": "80321",
+    "summary": "REMEDYREPACK INC."
+  },
+  {
+    "id": 51,
+    "name": "Nancy",
+    "duration": "0",
+    "summary": "REMEDYREPACK INC."
+  },
+  {
+    "id": 52,
+    "name": "Westridge",
+    "duration": "9676",
+    "summary": "Advanced Dental Anesthetics"
+  },
+  {
+    "id": 53,
+    "name": "Killdeer",
+    "duration": "43688",
+    "summary": "Aurobindo Pharma Limited"
+  },
+  {
+    "id": 54,
+    "name": "Goodland",
+    "duration": "6",
+    "summary": "Golden State Medical Supply, Inc."
+  },
+  {
+    "id": 55,
+    "name": "Bobwhite",
+    "duration": "28497",
+    "summary": "Mallinckrodt Inc."
+  },
+  {
+    "id": 56,
+    "name": "Vermont",
+    "duration": "7",
+    "summary": "Aurobindo Pharma Limited"
+  },
+  {
+    "id": 57,
+    "name": "Marcy",
+    "duration": "57551",
+    "summary": "Physicians Total Care, Inc."
+  },
+  {
+    "id": 58,
+    "name": "Katie",
+    "duration": "614",
+    "summary": "Applied Biology"
+  },
+  { "id": 59, "name": "Huxley", "duration": "8100", "summary": "CVS Pharmacy" },
+  {
+    "id": 60,
+    "name": "Pennsylvania",
+    "duration": "875",
+    "summary": "Physicians Total Care, Inc."
+  },
+  {
+    "id": 61,
+    "name": "Gateway",
+    "duration": "08998",
+    "summary": "Terumo Corporation"
+  },
+  { "id": 62, "name": "Ramsey", "duration": "221", "summary": "Rite Aid" },
+  {
+    "id": 63,
+    "name": "Blackbird",
+    "duration": "90",
+    "summary": "Tender Corp dba Adventure Medical Kits"
+  },
+  { "id": 64, "name": "Gerald", "duration": "3", "summary": "Heel Inc" },
+  {
+    "id": 65,
+    "name": "Corscot",
+    "duration": "5242",
+    "summary": "Lake Erie Medical DBA Quality Care Products LLC"
+  },
+  {
+    "id": 66,
+    "name": "Union",
+    "duration": "1679",
+    "summary": "West-Ward Pharmaceutical Corp"
+  },
+  {
+    "id": 67,
+    "name": "Bunting",
+    "duration": "2",
+    "summary": "REMEDYREPACK INC."
+  },
+  {
+    "id": 68,
+    "name": "Randy",
+    "duration": "57542",
+    "summary": "Geiss, Destin and Dunn, Inc"
+  },
+  {
+    "id": 69,
+    "name": "Brown",
+    "duration": "2078",
+    "summary": "The Hain Celestial Group, Inc."
+  },
+  {
+    "id": 70,
+    "name": "Mccormick",
+    "duration": "6",
+    "summary": "Mission Hills, S.A. de C.V."
+  },
+  {
+    "id": 71,
+    "name": "Pleasure",
+    "duration": "76503",
+    "summary": "Humco Holding Group, Inc."
+  },
+  {
+    "id": 72,
+    "name": "Main",
+    "duration": "29651",
+    "summary": "MedVantx, Inc."
+  },
+  {
+    "id": 73,
+    "name": "Eastwood",
+    "duration": "47501",
+    "summary": "General Injectables & Vaccines, Inc"
+  },
+  {
+    "id": 74,
+    "name": "Longview",
+    "duration": "62801",
+    "summary": "Mylan Pharmaceuticals Inc."
+  },
+  {
+    "id": 75,
+    "name": "Loomis",
+    "duration": "2300",
+    "summary": "BioActive Nutritional, Inc."
+  },
+  {
+    "id": 76,
+    "name": "Manitowish",
+    "duration": "3",
+    "summary": "APP Pharmaceuticals, LLC"
+  },
+  {
+    "id": 77,
+    "name": "Merry",
+    "duration": "42",
+    "summary": "WAL-MART STORES INC."
+  },
+  {
+    "id": 78,
+    "name": "Dennis",
+    "duration": "82462",
+    "summary": "Physicians Total Care, Inc."
+  },
+  {
+    "id": 79,
+    "name": "Cardinal",
+    "duration": "837",
+    "summary": "Boots Retail USA Inc"
+  },
+  {
+    "id": 80,
+    "name": "Walton",
+    "duration": "8",
+    "summary": "Golden State Medical Supply, Inc"
+  },
+  {
+    "id": 81,
+    "name": "Schiller",
+    "duration": "5",
+    "summary": "PD-Rx Pharmaceuticals, Inc."
+  },
+  {
+    "id": 82,
+    "name": "Kipling",
+    "duration": "81784",
+    "summary": "AMERICAN CHEMICAL AND SANITARY SUPPLY INC"
+  },
+  {
+    "id": 83,
+    "name": "Stuart",
+    "duration": "639",
+    "summary": "Navajo Manufacturing Company Inc."
+  },
+  {
+    "id": 84,
+    "name": "Warner",
+    "duration": "0",
+    "summary": "Cangene bioPharma Inc."
+  },
+  {
+    "id": 85,
+    "name": "Bartillon",
+    "duration": "2082",
+    "summary": "ZRG DETOX, INC."
+  },
+  {
+    "id": 86,
+    "name": "Weeping Birch",
+    "duration": "0",
+    "summary": "American Health Packaging"
+  },
+  {
+    "id": 87,
+    "name": "La Follette",
+    "duration": "19",
+    "summary": "Lantern Enterprises Ltd"
+  },
+  {
+    "id": 88,
+    "name": "Weeping Birch",
+    "duration": "3",
+    "summary": "Birchwood Laboratories Inc"
+  },
+  {
+    "id": 89,
+    "name": "Ronald Regan",
+    "duration": "567",
+    "summary": "Sandoz Inc"
+  },
+  {
+    "id": 90,
+    "name": "Muir",
+    "duration": "11902",
+    "summary": "Rebel Distributors Corp"
+  },
+  { "id": 91, "name": "Elka", "duration": "1", "summary": "REMEDYREPACK INC." },
+  {
+    "id": 92,
+    "name": "Vermont",
+    "duration": "42186",
+    "summary": "GANZ U.S.A., LLC"
+  },
+  { "id": 93, "name": "Sommers", "duration": "9251", "summary": "RiteAid" },
+  {
+    "id": 94,
+    "name": "Old Shore",
+    "duration": "92",
+    "summary": "Mobius Therapeutics LLC"
+  },
+  {
+    "id": 95,
+    "name": "Schmedeman",
+    "duration": "976",
+    "summary": "Tarte, Inc"
+  },
+  {
+    "id": 96,
+    "name": "Oriole",
+    "duration": "7",
+    "summary": "Alcon Laboratories, Inc."
+  },
+  {
+    "id": 97,
+    "name": "Shasta",
+    "duration": "952",
+    "summary": "Eclat Pharmaceuticals, LLC"
+  },
+  {
+    "id": 98,
+    "name": "Utah",
+    "duration": "74",
+    "summary": "HHS/Program Support Center/Supply Service Center"
+  },
+  {
+    "id": 99,
+    "name": "Forster",
+    "duration": "0966",
+    "summary": "Chattem, Inc."
+  },
+  { "id": 101, "name": "Emilia", "duration": "123", "summary": "Lorem ipsum" },
+  {
+    "id": 102,
+    "name": "Freakyy",
+    "duration": "421",
+    "summary": "Lorem ipsum medical application"
+  },
+  {
+    "id": 103,
+    "name": "John",
+    "duration": "111",
+    "summary": "Lorem ipsum medical medicine"
+  }
+]
